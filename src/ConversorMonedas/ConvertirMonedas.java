@@ -18,7 +18,7 @@ public class ConvertirMonedas {
 	}
 	
 	public void convertirDolarAPesosMexicanos(double valorRecibido) {
-		double monedaPeso = valorRecibido * 19.80;
+		double monedaPeso = valorRecibido * 19.78;
 		// Reduciendo a dos decimales.
 		monedaPeso = (double) Math.round(monedaPeso * 100) / 100;
 		JOptionPane.showMessageDialog(null, "Tienes $ " + monedaPeso + " Pesos");
