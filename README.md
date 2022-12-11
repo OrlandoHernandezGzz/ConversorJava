@@ -1,4 +1,4 @@
-#  Acerca del proyecto :tw-2668: :tw-1f680:
+#  Acerca del proyecto ♨️🚀
 **Conversor de Monedas** que tiene como fines reforzar el aprendizaje de JAVA, donde se practico programación orientada a objetos, funciones matematicas, etc.
 
 - El proyecto esta elaborado en la versión javaSE 1.8
